@@ -1,0 +1,877 @@
+fileFormatVersion: 2
+guid: e0d3146523872aa4c9f946c5b65d157b
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "Bot\xF5es menu principal normal, selecionado e clicado em Ingles_0"
+    21300002: "Bot\xF5es menu principal normal, selecionado e clicado em Ingles_1"
+    21300004: "Bot\xF5es menu principal normal, selecionado e clicado em Ingles_2"
+    21300006: "Bot\xF5es menu principal normal, selecionado e clicado em Ingles_3"
+    21300008: "Bot\xF5es menu principal normal, selecionado e clicado em Ingles_4"
+    21300010: "Bot\xF5es menu principal normal, selecionado e clicado em Ingles_5"
+    21300012: "Bot\xF5es menu principal normal, selecionado e clicado em Ingles_6"
+    21300014: "Bot\xF5es menu principal normal, selecionado e clicado em Ingles_7"
+    21300016: "Bot\xF5es menu principal normal, selecionado e clicado em Ingles_8"
+    21300018: "Bot\xF5es menu principal normal, selecionado e clicado em Ingles_9"
+    21300020: "Bot\xF5es menu principal normal, selecionado e clicado em Ingles_10"
+    21300022: "Bot\xF5es menu principal normal, selecionado e clicado em Ingles_11"
+    21300024: "Bot\xF5es menu principal normal, selecionado e clicado em Ingles_12"
+    21300026: "Bot\xF5es menu principal normal, selecionado e clicado em Ingles_13"
+    21300028: "Bot\xF5es menu principal normal, selecionado e clicado em Ingles_14"
+    21300030: "Bot\xF5es menu principal normal, selecionado e clicado em Ingles_15"
+    21300032: "Bot\xF5es menu principal normal, selecionado e clicado em Ingles_16"
+    21300034: "Bot\xF5es menu principal normal, selecionado e clicado em Ingles_17"
+    21300036: "Bot\xF5es menu principal normal, selecionado e clicado em Ingles_18"
+    21300038: "Bot\xF5es menu principal normal, selecionado e clicado em Ingles_19"
+    21300040: "Bot\xF5es menu principal normal, selecionado e clicado em Ingles_20"
+    21300042: "Bot\xF5es menu principal normal, selecionado e clicado em Ingles_21"
+    21300044: "Bot\xF5es menu principal normal, selecionado e clicado em Ingles_22"
+    21300046: "Bot\xF5es menu principal normal, selecionado e clicado em Ingles_23"
+    21300048: "Bot\xF5es menu principal normal, selecionado e clicado em Ingles_24"
+    21300050: "Bot\xF5es menu principal normal, selecionado e clicado em Ingles_25"
+    21300052: "Bot\xF5es menu principal normal, selecionado e clicado em Ingles_26"
+    21300054: "Bot\xF5es menu principal normal, selecionado e clicado em Ingles_27"
+    21300056: "Bot\xF5es menu principal normal, selecionado e clicado em Ingles_28"
+    21300058: "Bot\xF5es menu principal normal, selecionado e clicado em Ingles_29"
+    21300060: "Bot\xF5es menu principal normal, selecionado e clicado em Ingles_30"
+    21300062: "Bot\xF5es menu principal normal, selecionado e clicado em Ingles_31"
+    21300064: "Bot\xF5es menu principal normal, selecionado e clicado em Ingles_32"
+    21300066: "Bot\xF5es menu principal normal, selecionado e clicado em Ingles_33"
+    21300068: "Bot\xF5es menu principal normal, selecionado e clicado em Ingles_34"
+    21300070: "Bot\xF5es menu principal normal, selecionado e clicado em Ingles_35"
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Bot\xF5es menu principal normal, selecionado e clicado em Ingles_0"
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 343
+        width: 129
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1232ac51b6512254cbbd7848038bbc07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es menu principal normal, selecionado e clicado em Ingles_1"
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 343
+        width: 129
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33889cd06607a94fb11cd73562503a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es menu principal normal, selecionado e clicado em Ingles_2"
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 343
+        width: 129
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab0e71b7e1805947bf184279c76901b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es menu principal normal, selecionado e clicado em Ingles_3"
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 316
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2346678bc7b53c749912ad24338f1ff9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es menu principal normal, selecionado e clicado em Ingles_4"
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 316
+        width: 33
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65775afb750840a49b7cd6b8e73f15ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es menu principal normal, selecionado e clicado em Ingles_5"
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 312
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6bd1d8ca263534086e27a96810608d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es menu principal normal, selecionado e clicado em Ingles_6"
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 312
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def332d57ab11c3499283559942dc6ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es menu principal normal, selecionado e clicado em Ingles_7"
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 285
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8260f459d60547e4cadbac7e505a030f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es menu principal normal, selecionado e clicado em Ingles_8"
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 285
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90ca5aa27ff3794bb74baf673e21604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es menu principal normal, selecionado e clicado em Ingles_9"
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 284
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c6822789c8152468e163585dcca1a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es menu principal normal, selecionado e clicado em Ingles_10"
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 284
+        width: 37
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2d793cefcf8d042ad8d70356688a4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es menu principal normal, selecionado e clicado em Ingles_11"
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 256
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75aba69c542203942bcf45bc86306d70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es menu principal normal, selecionado e clicado em Ingles_12"
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 252
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e3fcc6dbd23734bb6b36b2046c9725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es menu principal normal, selecionado e clicado em Ingles_13"
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 25
+        width: 189
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5482b05d5e70f6f44960e008ef4e9844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es menu principal normal, selecionado e clicado em Ingles_14"
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 223
+        width: 52
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ac9a97ab1358a459ffea1b87b78484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es menu principal normal, selecionado e clicado em Ingles_15"
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 223
+        width: 52
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d1a9947613f51489a663db83d2d7a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es menu principal normal, selecionado e clicado em Ingles_16"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 197
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133d3dfae3577014e976bd5e0bf8c2ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es menu principal normal, selecionado e clicado em Ingles_17"
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 197
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d09ccba4e4ea8248bd1f7404bc7442d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es menu principal normal, selecionado e clicado em Ingles_18"
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 195
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b400eac460b25e4b8c05a4275cce852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es menu principal normal, selecionado e clicado em Ingles_19"
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 195
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6198183078200f24ea1bb88eed3af069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es menu principal normal, selecionado e clicado em Ingles_20"
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 145
+        width: 129
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7efae933bf088b4e970050e70da34a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es menu principal normal, selecionado e clicado em Ingles_21"
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 86
+        width: 129
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096c18eb911174c408b363bb961ce6ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es menu principal normal, selecionado e clicado em Ingles_22"
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 55
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ebafe73c88052b4b847a1fff3467866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es menu principal normal, selecionado e clicado em Ingles_23"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 56
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2e0a8ed7557af469ae66bfdaa8ff33
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es menu principal normal, selecionado e clicado em Ingles_24"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 49
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc6491ab694eb640995059da4483d56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es menu principal normal, selecionado e clicado em Ingles_25"
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 49
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38182becee590044a2ad312d314feae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es menu principal normal, selecionado e clicado em Ingles_26"
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 55
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0ea0c474b26204ca7c8e9be9f5cd7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es menu principal normal, selecionado e clicado em Ingles_27"
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 55
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73014f0ff5c35146bb6b4fc36573e36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es menu principal normal, selecionado e clicado em Ingles_28"
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 55
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a32efa0fefaf848ad0535ec14b8a7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es menu principal normal, selecionado e clicado em Ingles_29"
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 19
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727ecd7c885a44a479cb4962d563e64f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es menu principal normal, selecionado e clicado em Ingles_30"
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 20
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f110d10db54100e48af707d9a453f21f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es menu principal normal, selecionado e clicado em Ingles_31"
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 13
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c333ffbc95ba744a2869762968b794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es menu principal normal, selecionado e clicado em Ingles_32"
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 13
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5586380bee52f4eb0b350eae58944d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es menu principal normal, selecionado e clicado em Ingles_33"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 19
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92374ec9eab6f3b438c2cd9880e76aed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es menu principal normal, selecionado e clicado em Ingles_34"
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 19
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12508c21b21ce245bbe4d0e3c1f3a02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es menu principal normal, selecionado e clicado em Ingles_35"
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 19
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba5a0bb68c20c74bbf5ce6ab4b740d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b01f9dee5a2a3394caa1bae6c9a221d2
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

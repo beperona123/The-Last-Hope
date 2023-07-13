@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: 998f2e80c950ae1499977feed8c420f7
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_0"
+    21300002: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_1"
+    21300004: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_2"
+    21300006: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_3"
+    21300008: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_4"
+    21300010: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_5"
+    21300012: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_6"
+    21300014: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_7"
+    21300016: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_8"
+    21300018: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_9"
+    21300020: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_10"
+    21300022: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_11"
+    21300024: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_12"
+    21300026: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_13"
+    21300028: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_14"
+    21300030: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_15"
+    21300032: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_16"
+    21300034: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_17"
+    21300036: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_18"
+    21300038: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_19"
+    21300040: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_20"
+    21300042: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_21"
+    21300044: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_22"
+    21300046: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_23"
+    21300048: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_24"
+    21300050: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_25"
+    21300052: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_26"
+    21300054: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_27"
+    21300056: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_28"
+    21300058: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_29"
+    21300060: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_30"
+    21300062: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_31"
+    21300064: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_32"
+    21300066: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_33"
+    21300068: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_34"
+    21300070: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_35"
+    21300072: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_36"
+    21300074: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_37"
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_0"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 360
+        width: 94
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a99a3cc0fc2b6b46a87a03ee827ae6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_1"
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 358
+        width: 102
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af0f6e75e1125a4490191a64dcdb023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_2"
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 122
+        width: 189
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c4ff20d37ff9b4eaf4c36e12e7636b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_3"
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 331
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966351739986ed042beec8bf7b56cf3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_4"
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 329
+        width: 39
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f343527c6939bf41bc728c54050e1ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_5"
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 301
+        width: 47
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00527feb28dcf54888ae80c2841ce9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_6"
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 301
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4deeecefeaa244fb3891284b381a61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_7"
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 301
+        width: 47
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e3f6d7c789c6b4bbc2a48e5f0c74b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_8"
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 301
+        width: 50
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca92d1871575b44478c13b4a5b6395e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_9"
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 299
+        width: 39
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde22e442e3e0b740b5317be9df3d46f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_10"
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 299
+        width: 47
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a4a08355e87a94a94ddf9cc8ca07f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_11"
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 299
+        width: 47
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c2a97d9cefa314581818efc13780a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_12"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 267
+        width: 47
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063e53b4c182ee645b74730b0dd98023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_13"
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 267
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb2d8e3949f3824289a85e448d66e51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_14"
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 267
+        width: 46
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13ce1eeb78dfe441a9a5fdfc0739349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_15"
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 265
+        width: 39
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73ac4d5e259efc4ebf7b4bcbc1fa1ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_16"
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 265
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c18ddd70c19fa4b948099eb3edbf11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_17"
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 265
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16eb3b1b99e5a3348bbdc56b5ddab354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_18"
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 233
+        width: 45
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1439e0c3fe92c541a63b18af544d8c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_19"
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 231
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908989723aca5c24888366ca6138cf75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_20"
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 228
+        width: 46
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80cdf793010ecfe42bba7220f580215a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_21"
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 194
+        width: 66
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24869067311dd36408ef9b0ff06f7ec0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_22"
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 192
+        width: 73
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b624d7ffe4c9b484aa7caf6f309d11d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_23"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 157
+        width: 43
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d5a64a17a3b8049832acfa81091f58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_24"
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 155
+        width: 43
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2321a97f2ef3fc44e89ad6d3d4d69592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_25"
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 159
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c158ffcd4170f4a4594117a095f16f41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_26"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 121
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc33723e231ced4eba8c991d6cf252a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_27"
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 121
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6cd259a2da7f8547aa700599a6d9f7e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_28"
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 119
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5862e02907c42458c39643044de5ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_29"
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 103
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05719e88b2e87384d88ba43e6c1c5491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_30"
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 68
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7d1cae9e1503845aee51ed134afce2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_31"
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 68
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1368520e9d2a142429a5c145f1c535c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_32"
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 70
+        width: 171
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dfadb09562baba4f9f39396ea7d6f73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_33"
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 59
+        width: 64
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3946f023581f444b8d6b9998d2ad572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_34"
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 59
+        width: 64
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4eee03188c60d4e85fed2cd3393ee5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_35"
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 26
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44c6c189b7e9d340b1afae6f9395174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_36"
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 32
+        width: 171
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b64ed28e8912db4d98445b8fc9acd5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es do menu configura\xE7\xF5es portugues e ingles_37"
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 18
+        width: 64
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7a4cb3cf3468c4bb2485bf6188dac1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: abbd14cbfa012a348bc2ee818f5e1d80
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
