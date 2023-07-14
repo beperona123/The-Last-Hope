@@ -1,0 +1,10 @@
+To install The Last Hope, please follow these steps:
+
+.Double click on the file TheLastHope.exe
+.Click "yes" to accept installing as an administrator and accept any other prompts your computer may require.
+.Choose your preferred language for the installer
+.Follow all steps in the installer
+.Make sure the box "Create a shortcut on the Desktop" is checked, so that an executable file will be generated on the Desktop.
+.Upon completion of the installation, an executable file will be created on the Desktop by default and the game 
+will be installed in the folder you have chosen. 
+.Double click on the file on the Desktop and the game will be ready for use.
