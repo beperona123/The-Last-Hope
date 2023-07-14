@@ -6,18 +6,7 @@ The Last Hope is a 2D platform game developed  for PC using the Unity Engine. It
 The Last Hope is a digital game project that explores the effects of anthropomorphic interaction on the environment. Set in the post-apocalyptic planet of Domum, players control Cassius, a scientist investigating the causes of the planet's extinction. The game highlights the connection between reckless resource exploitation and environmental disasters, emphasizing the importance of conservation and sustainable use of nature.
 
 # Installation
-To experience The Last Hope, follow these steps:
-
-1. Clone the repository to your local machine.
-2. Open the folder where you cloned the repository, named "The Last Hope UNITY."
-3. Find the Install folder of The Last Hope game.
-4. Look for the file named TheLastHope.exe within the Install folder.
-5. Double-click on the file TheLastHope.exe to start the installation process.
-6. Accept any necessary administrative permissions and confirmations that your computer may require.
-7. Choose your preferred language for the installer.
-8. Follow all the steps of the installer to complete the installation.
-9. Make sure to select the option "Create a desktop shortcut" during the installation process. This will create an executable file on your desktop.
-10. Once the installation is finished, locate the executable file on your desktop and double-click it to launch the game.
+To experience The Last Hope, please download the latest release of the game inside the Releases section of this Github repository and read the HowToInstall.txt file.
 
 # Documentation:
 
@@ -30,3 +19,4 @@ Game Design Document (GDD): The GDD is a comprehensive document that describes t
 Testing Metrics: This document presents the specific metrics and measurements used during the testing phase of the game. It provides insights into how the game's performance, stability, and user experience were evaluated and assessed.
 
 Feel free to reach out if you have any questions or need further assistance with The Last Hope game project.
+
