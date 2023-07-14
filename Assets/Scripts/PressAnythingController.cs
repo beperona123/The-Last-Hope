@@ -3,15 +3,13 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class PressAnything : MonoBehaviour 
+public class PressAnythingController : MonoBehaviour 
 {
-
-
 	void Update () 
 	{
 		if(Input.anyKey)
 		{
-			SceneManager.LoadScene("TelaInicio");
+			SceneManager.LoadScene("MainMenu");
 		}
 	}
 }
